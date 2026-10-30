@@ -1,7 +1,10 @@
 # ComfyUI-Bao v0.01
 Nodos para ComfyUI:
-- Load Image Folder Output Names
-- Load Image Output Name
-- Save Image Webp
-- Chroma 3D
+
+- Chroma3D 🍿️
+- Folder to Webp Converter 📁️ -> 📷️
+- Load Image Folder & Output Names 📁
+- Load Image & Output Name 📁
+- Save Image Webp 📷️
+
 
