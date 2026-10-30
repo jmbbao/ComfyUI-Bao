@@ -78,7 +78,7 @@ class LoadImageOutputName:
     @classmethod
     def IS_CHANGED(s, image):
         image_path = folder_paths.get_annotated_filepath(image)
-        m = hashlib.mdf5()
+        m = hashlib.md5()
         with open(image_path, 'rb') as f:
             m.update(f.read())
         return m.hexdigest()
