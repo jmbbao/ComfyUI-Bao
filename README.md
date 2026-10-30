@@ -1,4 +1,4 @@
-# ComfyUI-Bao v0.1
+# ComfyUI-Bao v0.01
 Nodos para ComfyUI:
 - Load Image Folder Output Names
 - Load Image Output Name
